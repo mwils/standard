@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "eslint": "^5.0.0-alpha.2",
-    "eslint-config-standard": "standard/eslint-config-standard",
+    "eslint-config-standard": "https://github.com/mwils/eslint-config-standard.git",
     "eslint-config-standard-jsx": "standard/eslint-config-standard-jsx",
     "eslint-plugin-import": "~2.11.0",
     "eslint-plugin-node": "~6.0.0",
